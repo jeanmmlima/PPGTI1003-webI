@@ -9,17 +9,20 @@ import Toogle from './components/Toogle';
 import SaudacaoApp from './basic/SaudacaoApp';
 import ShoppingList from './basic/ShppingList';
 import Hello from './basic/Hello';
+import Counter from './components/Counter';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-  <Hello />
+  //<Hello />
   //<MyApp1 />
   //<MyButton />
   //<Profile />
   //<SaudacaoApp />
   //<ShoppingList />
+  //<Counter />
+  <Toogle />
 );
 
 
