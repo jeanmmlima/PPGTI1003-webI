@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const firebaseURL = 'https://ppgti1003-default-rtdb.firebaseio.com/contacts.json';
+const firebaseURL = 'https://ppgti10032-default-rtdb.firebaseio.com/contacts.json';
 
 const App = () => {
   const [name, setName] = useState('');

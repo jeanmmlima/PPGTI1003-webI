@@ -11,9 +11,9 @@ import ControlledComponentEx from './components/ControlledComponentEx';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ControlledComponentEx />
-    {/*<CustomForm />*/}
-    {/*<FormMultipleFields />*/}
+    {/*<ControlledComponentEx />*/}
+    <CustomForm />
+    <FormMultipleFields />
   </React.StrictMode>
 );
 

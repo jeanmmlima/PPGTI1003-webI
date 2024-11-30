@@ -20,7 +20,7 @@ root.render(
     <MyApp />
     {/*<FormHook /> */}
     <CustomFormHook />
-    {/*<Example3 />*/}
+    <Example3 />
     <UserList />
     <Contatos />
   </React.StrictMode>
